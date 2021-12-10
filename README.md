@@ -1,6 +1,6 @@
 # Hi, I'm Antone 👋🏾👨🏾‍💻 | Welcome to my GitHub
 
-![Banner Gif](https://github.com/antoneev/antoneev/blob/master/GitHub%20Readme%20Banner.gif)
+![Banner Gif](https://github.com/antoneev/antoneev/blob/master/GitHub%20Readme%20Banner%20-%20Post%20Grad.gif)
 
 ## Alittle about me :smiley:
 I'm a Computer Science master's candidate along with a Programmer Analyst Intern for Teachers' Retirement Systems of Illinois.  I'm currently doing research on COVID-19 trending using Social Media Repsonses. I’ve found a passion for Data Science and I’m continuously building my knowledge in the field. In addition, I own a tech and branding business with a friend – TAB Innovations.
